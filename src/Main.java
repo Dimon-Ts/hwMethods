@@ -54,6 +54,7 @@ public class Main {
         determineDevYear(clientDeviceYear); determineOpSys(clientOpSys);
         System.out.println();
         // Задание 3.
+        System.out.println("Задание 3.");
         System.out.println("Расчёт времени доставки:");
         int deliveryDistance = 100;
         calculationDelivery(deliveryDistance);
